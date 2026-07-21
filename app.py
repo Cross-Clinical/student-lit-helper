@@ -74,7 +74,7 @@ with gr.Blocks(title="Student Lit Helper") as demo:
     gr.Markdown(
         f"# Student Lit Helper\n\n**{DISCLAIMER}**\n\n"
         "Powered by [Europe PMC](https://europepmc.org/) open APIs.\n\n"
-        "[Cross Clinical OSS](https://github.com/Cross-Clinical/awesome) · "
+        "[Cross Clinical OSS](https://github.com/Cross-Clinical/suite-index) · "
         "[ProMedNet](https://crossclinical.com) · "
         "[Try Pathway Explorer](https://github.com/Cross-Clinical/health-pathway-explorer)"
     )

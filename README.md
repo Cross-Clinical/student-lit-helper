@@ -20,4 +20,4 @@ Search open biomedical literature (Europe PMC) for school projects and cite PMID
 
 **Educational use only — not for diagnosis or clinical decisions.** No PHI uploads.
 
-[Cross Clinical OSS](https://github.com/Cross-Clinical/awesome) · [ProMedNet](https://crossclinical.com)
+[Cross Clinical OSS](https://github.com/Cross-Clinical/suite-index) · [ProMedNet](https://crossclinical.com)
