@@ -1,0 +1,10 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  gradio:
+    uses: Cross-Clinical/oss-rails/.github/workflows/python-gradio-ci.yml@main
